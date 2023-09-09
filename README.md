@@ -1,6 +1,7 @@
 # Questions_Python_Base_Salaries
 
-![image](https://github.com/PenseJoyce/Questions_Python_Base_Salaries/assets/77034969/f0db2849-8221-46ca-89ae-1a1c49c4d445)
+![image](https://github.com/PenseJoyce/Questions_Python_Base_Salaries/assets/77034969/c26bb73d-bcff-4359-956d-1171c12ae967)
+
 
 ## Objetivos
 
