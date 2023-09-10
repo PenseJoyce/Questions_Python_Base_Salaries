@@ -8,6 +8,7 @@
 O script tem os seguintes objetivos:
 
 1- Responder ao questionário referente ao dataset 'salaries'.
+
 2- Verificar a correlação entre duas variáveis
 
 
@@ -24,7 +25,6 @@ pip install matplotlib
 ## Informações da base 
 
 O dataset está disponível no seguinte endereço: https://api.slingacademy.com/v1/sample-data/files/salaries.csv
-
 
 ## Os atributos são:
 
